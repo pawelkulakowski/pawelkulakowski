@@ -64,9 +64,8 @@ My select data analysis projects completed up to date in **Excel, SQL, Python an
 | Language  | Proficiency     |              |
 | :-------- | :-------        | :------------------------- |
 | English   | C2 (Native-Like)  | <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Circular%20Australian%20Flag.png" width="42"> <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/C%20US%20Flag.png" width="42"> 
-| Spanish   | C1 (Autonomous Level)  | <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/C%20Argentinian%20Flag.png" width="42">
-| German    | B2 (Upper-Intermediate Level)  | <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/C%20German%20Flag.png" width="42">
-| Turkish   | Native                 | <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Circular%20Turkish%20Flag.png" width="42">
+| Polish    | Native  | <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/C%20Argentinian%20Flag.png" width="42">
+
 
 <br>
 
