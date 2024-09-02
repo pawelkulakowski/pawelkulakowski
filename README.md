@@ -32,6 +32,16 @@ DashPlotly Projects:
 Task Optimalizations:
 - [Filtering data from an excel file and preparing set of emails](https://github.com/pawelkulakowski/task_optimalization)
 
+## More About Me:
+- Results-driven professional with extensive experience in sales, purchasing, project management, and team leadership.
+- Expertise in business intelligence (BI) and data analytics, with a strong focus on process improvement and data-driven decision-making.
+- Proven track record in developing effective solutions that enhance business operations and drive growth.
+- Skilled in relationship-building, working in multicultural environments, and effective communication.
+- Proficient in Python, SQL, Excel, and Power BI, with a PL-300 certification.
+- Experienced in designing, developing, and maintaining data dashboards and visualizations for senior management.
+- Strong background in leading cross-functional teams, managing international sales, and implementing CRM systems.
+- Adept at optimizing reporting processes and automating tasks to improve efficiency and accuracy.
+- Fluent in Polish, and English, with a solid foundation in business operations and analytics.
 
 <div id="badges" align="left">
    <a href="mailto:pwkulakowski@gmail.com">
@@ -40,15 +50,6 @@ Task Optimalizations:
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=30></a> 
 </div>
 
-<br>
-
-
-## 🧐 More About Me:
-- 👨‍💻 I’m a self-learner data analyst who sees a big.
-- 🌱 test.
-- 👯 I’m open to collaborate on data analysis projects, including volunteer work.
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/pawel-kulakowski/) 
-- 💼 Any freelance work you might be interested in? Please reach out by email :)
 <br>
 
 ## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Data%20Analysis%20Icon.png" width="35"> Data Analysis Skills and Tools:
