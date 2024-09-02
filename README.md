@@ -21,13 +21,12 @@ PowerBi Projects:
 - [Analyzing Customer Churn](https://github.com/pawelkulakowski/seaborn_dataset_analysis)
 
 Python Projects:
+- [Export Sales Dash-Plotly Dashboard](https://github.com/pawelkulakowski/dashboard_for_export_sales) 
 - [Seaborn Data Analysis](https://github.com/pawelkulakowski/seaborn_dataset_analysis)
 
 SQL Projects:
 - [Customer Behaviour Analysis](https://github.com/pawelkulakowski/sql_project_customer_behavior_analysis)
 
-DashPlotly Projects:
-- [Export Sales Dash-Plotly Dashboard](https://github.com/pawelkulakowski/dashboard_for_export_sales) 
 
 Task Optimalizations:
 - [Filtering data from an excel file and preparing set of emails](https://github.com/pawelkulakowski/task_optimalization)
