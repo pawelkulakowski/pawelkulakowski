@@ -83,26 +83,4 @@ Task Optimalizations:
 </p>
 <br>
 
-## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Languages%20Icon.png" width="35"> You can communicate with me via:
-
-<br>
-
-| Language  | Proficiency     |              |
-| :-------- | :-------        | :------------------------- |
-| English   | C2 (Native-Like)  | <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Circular%20Australian%20Flag.png" width="42"> <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/C%20US%20Flag.png" width="42"> 
-| Polish    | Native  | <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/C%20Argentinian%20Flag.png" width="42">
-
-
-<br>
-
-## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Email%20Icon.png" width="35"> How to reach me:
-
--[**Drop an Email**](mailto:goylusun@gmail.com)
-
--[**Connect via LinkedIn**](https://www.linkedin.com/in/ozzygoylusun/)
-    
-<div align="center">
-<img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/connected.gif" alt="Ozzy Goylusun" width="350" height="200" />
-</div>
-
       
