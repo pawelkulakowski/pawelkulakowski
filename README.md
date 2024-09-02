@@ -1,10 +1,26 @@
 
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> My name is Pawel and I come from Walbrzych, Poland
+### JohnAnalytics 
 
-I am currently exploring the depths of the beautiful data world as a passionate data analyst. I believe that my vast experience in managerial positions across different companies might give additional value in creating interesting insights.
+At JohnAnalytics, we transform business insights into actionable intelligence. Combining years of hands-on managerial experience across various industries with cutting-edge technology, we specialize in crafting tailored reports and dynamic dashboards that empower your business units to make informed decisions.
+
+Our expertise bridges the gap between practical business needs and innovative solutions, ensuring that your data doesn't just inform but drives your strategy. Whether you're looking to streamline operations, understand customer behavior, or optimize performance, JohnAnalytics delivers the tools and insights you need to succeed.
+
+Explore our services to see how we can help your organization turn data into a powerful asset for growth and efficiency. Welcome to a smarter way of doing business.
+
+My name is Pawel and I will be your data analyst on this journey.
+
+## Projects
 
 My select data analysis projects completed up to date in **Excel, SQL, Python and Power BI** are available in my [**GitHub Repo.**](https://github.com/pawelkulakowski?tab=repositories) 
+
+PowerBi Projects:
+[Improving OTIF through a Shipment Monitoring Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_three)
+[Driving Sales Growth with Performance KPIs: The Power of a Sales Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_two)
+
+
+DashPlotly Projects:
+[**GitHub Repo.**](https://github.com/pawelkulakowski?tab=repositories) 
 
 
 
