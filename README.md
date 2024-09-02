@@ -15,13 +15,22 @@ My name is Pawel and I will be your data analyst on this journey.
 My select data analysis projects completed up to date in **Excel, SQL, Python and Power BI** are available in my [**GitHub Repo.**](https://github.com/pawelkulakowski?tab=repositories) 
 
 PowerBi Projects:
-[Improving OTIF through a Shipment Monitoring Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_three)
-[Driving Sales Growth with Performance KPIs: The Power of a Sales Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_two)
+- [Improving OTIF through a Shipment Monitoring Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_three)
+- [Driving Sales Growth with Performance KPIs: The Power of a Sales Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_two)
+- [Customer Effectivness Analysis](https://github.com/pawelkulakowski/powerbi_project)
+- [Analyzing Customer Churn](https://github.com/pawelkulakowski/seaborn_dataset_analysis)
 
+Python Projects:
+- [Seaborn Data Analysis](https://github.com/pawelkulakowski/seaborn_dataset_analysis)
+
+SQL Projects:
+- [Customer Behaviour Analysis](https://github.com/pawelkulakowski/sql_project_customer_behavior_analysis)
 
 DashPlotly Projects:
-[**GitHub Repo.**](https://github.com/pawelkulakowski?tab=repositories) 
+- [Export Sales Dash-Plotly Dashboard](https://github.com/pawelkulakowski/dashboard_for_export_sales) 
 
+Task Optimalizations:
+- [Filtering data from an excel file and preparing set of emails](https://github.com/pawelkulakowski/task_optimalization)
 
 
 <div id="badges" align="left">
