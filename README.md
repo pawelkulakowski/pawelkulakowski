@@ -15,6 +15,10 @@ My name is Pawel and I will be your data analyst on this journey.
 My select data analysis projects completed up to date in **Excel, SQL, Python and Power BI** are available in my [**GitHub Repo.**](https://github.com/pawelkulakowski?tab=repositories) 
 
 PowerBi Projects:
+- [Performance Analysis. Custom native charts and Figma Layout](https://github.com/pawelkulakowski/powerbi_portfolio_project_four)
+
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_01.jpg?raw=true" width=50% height=50%>
+
 - [Improving OTIF through a Shipment Monitoring Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_three)
 - [Driving Sales Growth with Performance KPIs: The Power of a Sales Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_two)
 - [Customer Effectivness Analysis](https://github.com/pawelkulakowski/powerbi_project)
