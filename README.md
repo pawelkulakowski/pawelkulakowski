@@ -21,7 +21,7 @@ PowerBi Projects:
 
 - [Improving OTIF through a Shipment Monitoring Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_three)
 
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_01a.JPG?raw=true" width=40% height=40%><img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_02a.JPG?raw=true" width=40% height=40%>
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_01a.JPG?raw=true" width=300px height=200px>   <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_02a.JPG?raw=true" width=40% height=40%>
 
 - [Driving Sales Growth with Performance KPIs: The Power of a Sales Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_two)
 - [Customer Effectivness Analysis](https://github.com/pawelkulakowski/powerbi_project)
