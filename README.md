@@ -16,16 +16,22 @@ My select data analysis projects completed up to date in **Excel, SQL, Python an
 
 PowerBi Projects:
 - [Performance Analysis. Custom native charts and Figma Layout](https://github.com/pawelkulakowski/powerbi_portfolio_project_four)
+
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_01.jpg?raw=true" width=300px height=170px>    <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_03.JPG?raw=true" width=300px height=170px>
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_01.jpg?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_03.JPG?raw=true" width=300px height=170px>
 </div>
+
 - [Improving OTIF through a Shipment Monitoring Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_three)
 
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_01a.JPG?raw=true" width=300px height=170px>    <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_02a.JPG?raw=true" width=300px height=170px>
+<div align="center">
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_01a.JPG?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_02a.JPG?raw=true" width=300px height=170px>
+</div>
 
 - [Driving Sales Growth with Performance KPIs: The Power of a Sales Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_two)
 
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_01.JPG?raw=true" width=300px height=170px>    <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_03.JPG" width=300px height=170px>
+<div align="center">
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_01.JPG?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_03.JPG" width=300px height=170px>
+</div>
 
 - [Customer Effectivness Analysis](https://github.com/pawelkulakowski/powerbi_project)
 - [Analyzing Customer Churn](https://github.com/pawelkulakowski/seaborn_dataset_analysis)
