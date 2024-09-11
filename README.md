@@ -18,7 +18,7 @@ PowerBi Projects:
 - [Performance Analysis. Custom native charts and Figma Layout](https://github.com/pawelkulakowski/powerbi_portfolio_project_four)
 
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_01.jpg?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_03.JPG?raw=true" width=300px height=170px>
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_01.jpg?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_05.JPG?raw=true" width=300px height=170px>
 </div>
 
 - [Improving OTIF through a Shipment Monitoring Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_three)
@@ -48,15 +48,13 @@ Task Optimalizations:
 - [Filtering data from an excel file and preparing set of emails](https://github.com/pawelkulakowski/task_optimalization)
 
 ## More About Me:
-- Results-driven professional with extensive experience in sales, purchasing, project management, and team leadership.
-- Expertise in business intelligence (BI) and data analytics, with a strong focus on process improvement and data-driven decision-making.
-- Proven track record in developing effective solutions that enhance business operations and drive growth.
-- Skilled in relationship-building, working in multicultural environments, and effective communication.
-- Proficient in Python, SQL, Excel, and Power BI, with a PL-300 certification.
-- Experienced in designing, developing, and maintaining data dashboards and visualizations for senior management.
-- Strong background in leading cross-functional teams, managing international sales, and implementing CRM systems.
-- Adept at optimizing reporting processes and automating tasks to improve efficiency and accuracy.
-- Fluent in Polish, and English, with a solid foundation in business operations and analytics.
+- Experience in analyzing manufacturing companies data including operational sales, purchasing (inventory management) product data, cnc machining equipment data and quality data
+- Specialized in developing effective ETL processes that enhance building effective reports and dashboards 
+- Experience in working with relational databases, gathering and retrieving information, data cleaning and building data models
+- Business Intelligence Specialist with a strong focus on process understanding and improvement to support data-driven decision-making.
+- Working closely with different stakeholders to prepare custom reports/dashbords/sql querries/automated tasks 
+- Practical knowledge of Python (including analytical libraries like Pandas, Numpy, Pydantic), SQL (including window funcions, nested selects, cte's), Excel (ability to create macros and create code in VisualBasic),and Power BI (including advanced DAX),with a PL-300 certification (Microsoft Data Analyst Certificate)
+- Skilled in relationship-building, working in multicultural environments, effective communication  and project management. Good team leader. Fluent in Polish and English
 
 <div id="badges" align="left">
    <a href="mailto:pwkulakowski@gmail.com">
