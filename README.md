@@ -27,6 +27,14 @@ PowerBi Projects:
 <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_01a.JPG?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_02a.JPG?raw=true" width=300px height=170px>
 </div>
 
+
+- [Monthly Regional Sales Meeting](https://github.com/pawelkulakowski/powerbi_portfolio_project_five)
+
+<div align="center">
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_five/blob/master/project_02.JPG?raw=true" width=300px height=170px>       
+</div>
+
+
 - [Driving Sales Growth with Performance KPIs: The Power of a Sales Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_two)
 
 <div align="center">
