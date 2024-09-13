@@ -24,7 +24,7 @@ PowerBi Projects:
 - [Monthly Regional Sales Meeting](https://github.com/pawelkulakowski/powerbi_portfolio_project_five)
 
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_five/blob/master/project_02.JPG?raw=true" width=300px height=170px>       
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_five/blob/master/project_01.JPG?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_five/blob/master/project_02.JPG?raw=true" width=300px height=170px>       
 </div>
 
 - [Improving OTIF through a Shipment Monitoring Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_three)
