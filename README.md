@@ -15,6 +15,15 @@ My name is Pawel and I will be your data analyst on this journey.
 My select data analysis projects completed up to date in **Excel, SQL, Python and Power BI** are available in my [**GitHub Repo.**](https://github.com/pawelkulakowski?tab=repositories) 
 
 PowerBi Projects:
+
+- [Logistic Transport Report](https://github.com/pawelkulakowski/powerbi_portfolio_project_seven)
+
+<div align="center">
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/project_01.jpg?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/project_03.jpg?raw=true" width=300px height=170px>
+</div>
+
+
+
 - [International Sales Analysis Report](https://github.com/pawelkulakowski/powerbi_portfolio_project_six)
 
 <div align="center">
