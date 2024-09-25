@@ -19,7 +19,7 @@ PowerBi Projects:
 - [Logistic Transport Report](https://github.com/pawelkulakowski/powerbi_portfolio_project_seven)
 
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/project_01.jpg?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/project_03.jpg?raw=true" width=300px height=170px>
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/frame.jpg?raw=true" width=300px height=170px>        
 </div>
 
 
