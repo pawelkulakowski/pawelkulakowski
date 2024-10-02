@@ -37,25 +37,25 @@ PowerBi Projects:
 - [Performance Analysis. Custom native charts and Figma Layout](https://github.com/pawelkulakowski/powerbi_portfolio_project_four)
 
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_01.jpg?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/project_04b.JPG?raw=true" width=300px height=170px>
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_four/blob/master/promo.jpg?raw=true" width=300px height=200px>        
 </div>
 
 - [Monthly Regional Sales Meeting](https://github.com/pawelkulakowski/powerbi_portfolio_project_five)
 
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_five/blob/master/project_01.JPG?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_five/blob/master/project_02.JPG?raw=true" width=300px height=170px>       
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_five/blob/master/promo.jpg?raw=true" width=300px height=200px>        
 </div>
 
 - [Improving OTIF through a Shipment Monitoring Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_three)
 
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_01a.JPG?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/project_02a.JPG?raw=true" width=300px height=170px>
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_three/blob/master/promo.jpg?raw=true" width=300px height=200px>        
 </div>
 
 - [Driving Sales Growth with Performance KPIs: The Power of a Sales Dashboard](https://github.com/pawelkulakowski/powerbi_portfolio_project_two)
 
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_01.JPG?raw=true" width=300px height=170px>        <img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/project_03.JPG" width=300px height=170px>
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_two/blob/master/promo.jpg?raw=true" width=300px height=200px>        
 </div>
 
 - [Customer Effectivness Analysis](https://github.com/pawelkulakowski/powerbi_project)
