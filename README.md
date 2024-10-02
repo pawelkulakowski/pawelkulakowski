@@ -113,7 +113,7 @@ Task Optimalizations:
  <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/BBEdit.png" title="BBEdit" alt="BBEdit" width="60" height="60"/>
  <a href="https://imgur.com/YJmcXXk"><img src="https://i.imgur.com/YJmcXXk.png" title="source: imgur.com" width="60" height="60"/></a>
  <a href="https://imgur.com/XviOebl"><img src="https://i.imgur.com/XviOebl.png" title="source: imgur.com" width="60" height="60"/></a>
- 
+ dsadsadsas
 </p>
 <br>
 
