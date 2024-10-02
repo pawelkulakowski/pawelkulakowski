@@ -19,13 +19,13 @@ PowerBi Projects:
 - [Hotel Management Report](https://github.com/pawelkulakowski/powerbi_portfolio_project_eight)
 
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_eight/blob/master/promo.png?raw=true" width=300px height=170px>        
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_eight/blob/master/promo.png?raw=true" width=300px height=200px>        
 </div>
 
 - [Logistic Transport Report](https://github.com/pawelkulakowski/powerbi_portfolio_project_seven)
 
 <div align="center">
-<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/promo.png?raw=true" width=300px height=170px>        
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/promo.png?raw=true" width=300px height=200px>        
 </div>
 
 - [International Sales Analysis Report](https://github.com/pawelkulakowski/powerbi_portfolio_project_six)
