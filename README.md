@@ -16,6 +16,12 @@ My select data analysis projects completed up to date in **Excel, SQL, Python an
 
 PowerBi Projects:
 
+- [Marketing Email Campaign Performance - FP20 Challenge](https://github.com/pawelkulakowski/powerbi_portfolio_project_nine)
+
+<div align="center">
+<img src="https://github.com/pawelkulakowski/powerbi_portfolio_project_nine/blob/master/promo.jpg?raw=true" width=300px height=200px>        
+</div>
+
 - [Hotel Management Report](https://github.com/pawelkulakowski/powerbi_portfolio_project_eight)
 
 <div align="center">
